@@ -1668,6 +1668,7 @@ Audio Player
 	
 ===================================================
 
+<<<<<<< HEAD
 Use essas expressões para descordar:
  
 Audio Player
@@ -1706,4 +1707,208 @@ Audio Player
 	Let's take that one step further and increase the training budget. 	Vamos dar um passo a frente e aumentar o orçamento de treinamento.
 	
  
+=======
+ ============================================================
+
+Conectores de contraste
+ 
+Use conectores de contraste para comparar ou contradizer alguma outra coisa que você diz. Use However, para introduzir uma frase contrastiva.
+ 
+Audio Player
+
+I love parties. However, it's pretty rude to play loud music at 2 a.m.	 	Adoro festas. Porém, acho falta de educação deixar o volume da música alto às 2h.
+ 	 	 	 
+Audio Player
+
+It's fine to quickly kiss someone on the cheek. However, making out in public is inappropriate.	 	Tudo bem beijar alguém no rosto. Porém, ficar de agarramento em público é inadequado.
+ 	 	 	 
+Use although para dizer 'apesar de'. Even though é uma forma mais enfática although. Observe que ambos os conectores introduzem uma oração contrastiva.
+ 
+Audio Player
+
+Although it was bad manners to burp after the meal, I couldn't help myself.	 	Embora seja falta de educação arrotar após comer, não pude me controlar.
+ 	 	 	 
+Audio Player
+
+Even though she has purple hair, it's impolite to point at her.	 	Embora ela tenha cabelo roxo, é falta de educação apontar para ela.
+ 
+Conectores de contraste
+00:0000:00
+Audio Player
+
+Conectores de contraste
+ 
+Use conectores de contraste para comparar ou contradizer alguma outra coisa que você diz. Use However, para introduzir uma frase contrastiva.
+ 
+Audio Player
+
+I love parties. However, it's pretty rude to play loud music at 2 a.m.	 	Adoro festas. Porém, acho falta de educação deixar o volume da música alto às 2h.
+ 	 	 	 
+Audio Player
+
+It's fine to quickly kiss someone on the cheek. However, making out in public is inappropriate.	 	Tudo bem beijar alguém no rosto. Porém, ficar de agarramento em público é inadequado.
+ 	 	 	 
+Use although para dizer 'apesar de'. Even though é uma forma mais enfática although. Observe que ambos os conectores introduzem uma oração contrastiva.
+ 
+Audio Player
+
+Although it was bad manners to burp after the meal, I couldn't help myself.	 	Embora seja falta de educação arrotar após comer, não pude me controlar.
+ 	 	 	 
+Audio Player
+
+Even though she has purple hair, it's impolite to point at her.	 	Embora ela tenha cabelo roxo, é falta de educação apontar para ela.
+ 
+Use in spite of ou despite para dizer 'apesar de'. Observe que essas expressões introduzem uma frase nominal contrastiva.
+ 
+Audio Player
+
+In spite of his offensive behavior, I guess I'll invite him to the party.	 	Apesar de seu comportamento ofensivo, acho que o convidarei para a festa.
+ 	 	 	 
+Audio Player
+
+Despite the spitting in the street, I thought they were very polite in general.	 	Apesar de cuspirem na rua, achei que eram muito gentis de forma geral.
+
+Orações com although, even though, in spite of e despite também podem ser colocadas no fim de uma frase.
+ 
+Audio Player
+
+We started talking to them, even though they cut in line.	 	Começamos a conversar com eles, apesar de terem furado a fila.
+ 	 	 	 
+Audio Player
+
+I slurped up that delicious soup, in spite of his complaints.	 	Eu devorei a sopa, apesar das reclamações dele sobre o barulho.
+ 
+ -----------------------------------------------------
+
+ 
+Lidando com comportamento grosseiro
+ 
+Quando alguém faz algo que você considera grosseiro, você pode pedir que ela pare com isso. Use expressões como estas para pedir educadamente que alguém mude seu comportamento.
+Audio Player
+
+I was wondering if you could turn down the music.	Será que você poderia abaixar o volume?
+Audio Player
+
+I'd really appreciate it if you could do that somewhere else.	Eu agradeceria muito se pudesse fazer isso em outro lugar.
+
+Se não tiver resultados com um pedido gentil e indireto, poderá pedir de forma mais direta.
+Audio Player
+
+Could you please stop doing that?	Poderia, por favor, parar com isso?
+Audio Player
+
+Would you mind going to the end of the line?	Se importa de ir para o fim da fila?
+
+Se uma pergunta direta não resolver o problema, você poderá ter que ameaçar fazer alguma coisa. Você pode usar uma frase condicional para isso.
+Audio Player
+
+A: It's a free country. You can't make me go to the end of the line.	Este é um país livre. Não pode me obrigar a ir para o final da fila.
+B: I know. But if you do cut, then I'll have to talk to the manager.	Eu sei. Mas se furar a fila, falarei com o gerente.
+
+Comentário cultural: Embora pareça razoável reclamar sobre o comportamento de alguém, tenha cuidado com quando e como fazer isso. Seja educado, não importando o quanto a outra pessoa é grosseira e evite fazer ameaças sempre que possível.
+===========================================================
+
+
+Pronomes impessoais
+ 
+Você pode usar os pronomes you e they para se referir a pessoas em geral.
+ 
+Audio Player
+
+A: I'm going to Nigeria. I wonder if they bow when they greet each other there.	 	Vou para a Nigéria. Será que eles fazem uma referência quando se cumprimentam?
+B: It says here that you should bow to elderly people.	 	Diz aqui que você deve se curvar para as pessoas mais velhas.
+
+One é um pronome bastante formal que se refere a pessoas de forma geral.
+ 
+Audio Player
+
+One should put one's hands together and bow.	 	Devemos unir as mãos e nos curvarmos.
+Audio Player
+
+What does one do when given a gift?	 	O que se faz quando ganhamos um presente?
+
+Você pode usar apenas people.
+ 
+Audio Player
+
+People are very friendly there.	 	As pessoas são muito amistosas lá.
+Audio Player
+
+In Germany, people never give knives as gifts.	 	Na Alemanha, as pessoas nunca dão facas de presente.
+
+--------------------------------------------------
+
+
+Falando sobre expectativas culturais
+ 
+Use expressões como estas para perguntar sobre expectativas culturais:
+ 
+Audio Player
+
+I'm traveling to Spain. Can you give me some pointers about the culture?	 	Vou viajar para a Espanha. Pode me dar algumas dicas sobre a cultura de lá?
+Audio Player
+
+Are women expected to cover their heads?	 	As mulheres devem cobrir a cabeça?
+Audio Player
+
+I'm wondering how people behave at the dinner table.	 	Estou imaginando como as pessoas se comportam durante o jantar.
+
+Use expressões como estas para explicar expectativas culturais:
+ 
+Audio Player
+
+If you're a traveler, you're expected to tip your server.	 	Se você for um viajante, deverá dar uma gorjeta ao garçom.
+Audio Player
+
+You're supposed to eat with your fingers, not a fork.	 	Você deve comer com os dedos, e não com o garfo.
+Audio Player
+
+Make sure you send a thank-you note.	 	Lembre-se de mandar uma mensagem de agradecimento.
+
+
+Falando sobre expectativas culturais
+ 
+Use expressões como estas para perguntar sobre expectativas culturais:
+ 
+Audio Player
+
+I'm traveling to Spain. Can you give me some pointers about the culture?	 	Vou viajar para a Espanha. Pode me dar algumas dicas sobre a cultura de lá?
+Audio Player
+
+Are women expected to cover their heads?	 	As mulheres devem cobrir a cabeça?
+Audio Player
+
+I'm wondering how people behave at the dinner table.	 	Estou imaginando como as pessoas se comportam durante o jantar.
+
+Use expressões como estas para explicar expectativas culturais:
+ 
+Audio Player
+
+If you're a traveler, you're expected to tip your server.	 	Se você for um viajante, deverá dar uma gorjeta ao garçom.
+Audio Player
+
+You're supposed to eat with your fingers, not a fork.	 	Você deve comer com os dedos, e não com o garfo.
+Audio Player
+
+Make sure you send a thank-you note.	 	Lembre-se de mandar uma mensagem de agradecimento.
+ 
+Imperativos e orações com when são úteis para fornecer contexto para expectativas culturais.
+ 
+Audio Player
+
+In Korea, bring a small gift like dishwashing soap when you're invited for dinner.	 	Na Coreia, leve um pequeno presente, como sabão para louças, quando for convidado para jantar.
+ 	 	 	 
+Audio Player
+
+When you begin a business meeting, don't use your host's first name.	 	Ao iniciar uma reunião de negócios, não trate o anfitrião pelo primeiro nome.
+ 
+ ------------------------------------------,
+Resumindo as ideias principais
+
+Após ler um texto, tente resumi-lo rapidamente. Um resumo oral pode ajudar a compreender as ideias principais. Seu resumo pode ser bem mais curto do que o texto original e deve incluir who, what, when, where, why e how.
+ 
+Leia o texto e pense em como pode resumi-lo.
+ 
+We English are famous for our politeness and good etiquette. You're expected to say 'please' and 'thank you.' You're supposed to smile when you see people, and say 'sorry' if you accidentally bump into someone. You're not supposed to stare at people and definitely do not pick your nose, spit or burp in public.
+>>>>>>> 6743d438479a928665feacef4fdedc79fb89652e
  
