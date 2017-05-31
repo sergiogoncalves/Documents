@@ -5,48 +5,19 @@ let requests = [
     { requestId: 'qewaz', startedAt: 1489744810, ttl: 1 },
 ]
 
-
-
-//console.log(requests[0]);
-
-//console.log(requests[1]);
-
-//console.log(requests[2]);
-let a[] = any[];
-
-for (let i = 0; i < requests.length; i++) {
-
-    a.push(JSON.stringify(requests[i])); 
-
-    
-
+function calculateCumulativeTtl(requests) {
+    var cur = requests[0].startedAt;
+    var ttl = requests[0].ttl;
+    var min = cur;
+    var max = cur + ttl;
+    for (i = 1 ; i < requests.length; i++){
+        cur = requests[i].startedAt;
+        ttl = requests[i].ttl;
+        if (cur < min) min = cur;
+        if (max < cur + ttl) max = cur + ttl;
+    }
+    return max - min;
 }
-console.log(a);
 
-
-
-
-//console.log(b);
-
-//var req = JSON.parse(requests[0]);
-
-//console.log(req);
-
-
-//var req = JSON.parse(requests);
-
-//console.log(requests);
-
-//var mydata = JSON.parse(data);
-
-//var data = '[{"name" : "Ashwin", "age" : "20"},{"name" : "Abhinandan", "age" : "20"}]';
-
-/*var mydata = JSON.parse(data);
- console.log(mydata[0].name);
- console.log(mydata[0].age);
- console.log(mydata[1].name);
- console.log(mydata[1].age);*/
-
-//var req = JSON.parse(requests);
-
-//console.log(req[0].requestId);cls
+let cumulativeTtl = calculateCumulativeTtl(requests);
+console.log(cumulativeTtl);
