@@ -1668,7 +1668,6 @@ Audio Player
 	
 ===================================================
 
-<<<<<<< HEAD
 Use essas expressões para descordar:
  
 Audio Player
@@ -1910,5 +1909,41 @@ Após ler um texto, tente resumi-lo rapidamente. Um resumo oral pode ajudar a com
 Leia o texto e pense em como pode resumi-lo.
  
 We English are famous for our politeness and good etiquette. You're expected to say 'please' and 'thank you.' You're supposed to smile when you see people, and say 'sorry' if you accidentally bump into someone. You're not supposed to stare at people and definitely do not pick your nose, spit or burp in public.
->>>>>>> 6743d438479a928665feacef4fdedc79fb89652e
+
+=============================
+
+Substantivos e verbos para problemas, decisões e mudanças
+
+Aqui estão mais alguns verbos e substantivos. Você pode usá-los para indicar seus sentimentos sobre problemas, decisões e mudanças em uma empresa.
+ 
+  	Verb 	Noun
+Audio Player
+	regret 	regret
+Audio Player
+	doubt 	doubt
+Audio Player
+	pressure 	pressure
+Audio Player
+	replace 	replacement
+Audio Player
+	integrate 	integration
+Audio Player
+	congratulate 	congratulations
+ ==============================================
+ 
+ Perceba as diferentes formas de verbo e substantivo nos diálogos a seguir:
+ 
+Audio Player
+	A: Do you regret turning down the job? 	Você se arrepende de recusar o emprego?
+B: Yes, I do have some doubts. 	Sim, eu tenho algumas dúvidas.
+  	  	 
+Audio Player
+	A: I'm under a lot of pressure right now. 	Estou sob muita pressão agora.
+B: You mean, due to the integration of the two companies? 	Você quer dizer, devido à integração das duas empresas?
+A: Yes. I'm afraid that if I don't do my job well, they'll replace me.  	Sim. Receio que, se não fizer bem o meu trabalho, eles vão me substituir.
+  	  	 
+Audio Player
+	A: Congratulations on your promotion! 	Parabéns pela promoção!
+B: Thanks, but no need to congratulate me. It just means more work. 	Obrigado, mas não há porque me parabenizar. Isso só indica mais trabalho.
+
  
